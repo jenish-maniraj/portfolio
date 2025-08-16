@@ -11,7 +11,7 @@ Currently building projects to become industry-ready and aiming for product comp
 
 ## 🔗 Links
 - LinkedIn: [Click here](https://linkedin.com/in/jenish-maniraj-j-c-869b6031a)  
-- GitHub: [Click here](https:github.com/jenish-maniraj)
+- GitHub: [Click here](https://github.com/jenish-maniraj)
 - Portfolio Site: [Click here](https://jenish-maniraj.github.io/)
 ---
 > This repo will track my journey from **zero to product-ready SDE with ML specialization** in 12 months.
