@@ -1,7 +1,7 @@
 # Hi, I'm Jenish Maniraj 👋
 
 🚀 Aspiring Software Engineer (SDE) with a focus on **AI/ML & Cloud Engineering**.  
-Currently building projects to become industry-ready and aiming for product companies (₹10 LPA+ target).  
+Currently building projects to become industry-ready and aiming for product companies.
 
 ## 📂 Portfolio Contents
 - **Resume**: [View my CV](./Jenish_CV.pdf)  
